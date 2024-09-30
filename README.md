@@ -36,6 +36,12 @@ Agradeço por visitar meu perfil e fique à vontade para explorar meus projetos!
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mariadb/mariadb.png" alt="mariadb"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/4604b18f59398b35c5b19ab336b1616b0a42b18c/topics/mariadb/mariadb.png" alt="MariaDB"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/848b78ac4c7119e7ccf7a0ef4af9f17b76c03791/topics/laravel/laravel.png" alt="Laravel"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/4c61639f84a66e4535e6e110309d91e1bb344bab/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/8ca65d36b607471d6d6d96b616dface348e84f2f/topics/git/git.png" alt="Git"/></code>
+
+
 
 ---
