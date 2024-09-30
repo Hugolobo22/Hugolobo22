@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Hugo Medeiros 👋
 
-Sobre Mim
  🎓 Graduando em TI: Estudante apaixonado por desenvolvimento de software, com experiência em mapeamento de processos e levantamento de requisitos. Atualmente, estou focado em aprender PHP e Laravel, sempre buscando crescer na área de tecnologia.
 
  💻 Desenvolvedor: Tenho interesse em desenvolvimento full stack, com um foco crescente em backend, além de explorar frameworks modernos e boas práticas de desenvolvimento.
