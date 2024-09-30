@@ -1,4 +1,4 @@
-## Olá! Eu sou o Hugo Medeiros 👋
+## Olá! Eu me chamo Hugo Medeiros 👋
 
  🎓 Graduando em TI: Estudante apaixonado por desenvolvimento de software, com experiência em mapeamento de processos e levantamento de requisitos. Atualmente, estou focado em aprender PHP e Laravel, sempre buscando crescer na área de tecnologia.
 
@@ -21,8 +21,10 @@ Descrição breve do projeto e o que ele faz. Tecnologias usadas: JavaScript, Bo
 Como me encontrar
 ## 📫 Entre em contato:
 
-LinkedIn: Hugo Medeiros
-Email: seuemail@example.com
+LinkedIn: [Hugo Medeiros](https://www.linkedin.com/in/hugo-medeiros-355262272/)
+
+Email: Hugomedeiroslm@gmail.com
+
 Sempre aberto para colaborações e novas oportunidades de aprendizado! 😊
 
 Agradeço por visitar meu perfil e fique à vontade para explorar meus projetos!
@@ -39,17 +41,3 @@ Agradeço por visitar meu perfil e fique à vontade para explorar meus projetos!
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ---
-<!--
-**Hugolobo22/Hugolobo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
