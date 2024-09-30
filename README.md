@@ -7,7 +7,7 @@
  🚀 Aprendizado Contínuo: Além dos meus estudos em TI, estou sempre buscando me aperfeiçoar, experimentando novas linguagens, frameworks e metodologias que possam aprimorar meu trabalho.
 
 ## Tecnologias & Ferramentas
-- *Linguagens:** PHP, JavaScript, TypeScript, Python, HTML e CSS
+- **Linguagens:** PHP, JavaScript, TypeScript, Python, HTML e CSS
 
 - **Frameworks:** Laravel e Bootstrap
 
