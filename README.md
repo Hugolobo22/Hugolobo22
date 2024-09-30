@@ -1,24 +1,21 @@
 ## Olá! Eu me chamo Hugo Medeiros 👋
 
- 🎓 Graduando em TI: Estudante apaixonado por desenvolvimento de software, com experiência em mapeamento de processos e levantamento de requisitos. Atualmente, estou focado em aprender PHP e Laravel, sempre buscando crescer na área de tecnologia.
+ 🎓 Graduando em TI: Estudante apaixonado por desenvolvimento de software, com experiência em desenvolvimento Web. Atualmente, estou focado em aprender PHP e Laravel, sempre buscando crescer na área de tecnologia.
 
  💻 Desenvolvedor: Tenho interesse em desenvolvimento full stack, com um foco crescente em backend, além de explorar frameworks modernos e boas práticas de desenvolvimento.
 
  🚀 Aprendizado Contínuo: Além dos meus estudos em TI, estou sempre buscando me aperfeiçoar, experimentando novas linguagens, frameworks e metodologias que possam aprimorar meu trabalho.
 
 ## Tecnologias & Ferramentas
-Linguagens: PHP, JavaScript, HTML, CSS
-Frameworks: Laravel, Bootstrap
-Banco de Dados: MySQL
-Ferramentas: Git, VS Code, Composer
-Projetos Recentes
-Nome do Projeto 1
-Descrição breve do projeto e o que ele faz. Tecnologias usadas: PHP, Laravel, etc.
+Linguagens: PHP, JavaScript, TypeScript, Python, HTML e CSS
 
-Nome do Projeto 2
-Descrição breve do projeto e o que ele faz. Tecnologias usadas: JavaScript, Bootstrap, etc.
+Frameworks: Laravel e Bootstrap
 
-Como me encontrar
+Banco de Dados: MySQL e MariaDB
+
+Ferramentas: Git e VS Code
+
+
 ## 📫 Entre em contato:
 
 LinkedIn: [Hugo Medeiros](https://www.linkedin.com/in/hugo-medeiros-355262272/)
