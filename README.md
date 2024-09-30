@@ -7,24 +7,24 @@
  🚀 Aprendizado Contínuo: Além dos meus estudos em TI, estou sempre buscando me aperfeiçoar, experimentando novas linguagens, frameworks e metodologias que possam aprimorar meu trabalho.
 
 ## Tecnologias & Ferramentas
-Linguagens: PHP, JavaScript, TypeScript, Python, HTML e CSS
+- *Linguagens:** PHP, JavaScript, TypeScript, Python, HTML e CSS
 
-Frameworks: Laravel e Bootstrap
+- **Frameworks:** Laravel e Bootstrap
 
-Banco de Dados: MySQL e MariaDB
+- **Banco de Dados:** MySQL e MariaDB
 
-Ferramentas: Git e VS Code
+- **Ferramentas:** Git e VS Code
 
 
 ## 📫 Entre em contato:
 
-LinkedIn: [Hugo Medeiros](https://www.linkedin.com/in/hugo-medeiros-355262272/)
+- **LinkedIn:** [Hugo Medeiros](https://www.linkedin.com/in/hugo-medeiros-355262272/)
 
-Email: Hugomedeiroslm@gmail.com
+- **Email:** Hugomedeiroslm@gmail.com
 
-Sempre aberto para colaborações e novas oportunidades de aprendizado! 😊
+- **Sempre aberto para colaborações e novas oportunidades de aprendizado!** 😊
 
-Agradeço por visitar meu perfil e fique à vontade para explorar meus projetos!
+- **Agradeço por visitar meu perfil e fique à vontade para explorar meus projetos!**
 
 ## 🚀 Minhas Skills
 
