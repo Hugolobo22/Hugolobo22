@@ -9,7 +9,7 @@
 ## Tecnologias & Ferramentas
 - **Linguagens:** PHP, JavaScript, TypeScript, Python, HTML e CSS
 
-- **Frameworks:** Laravel e Bootstrap
+- **Frameworks:** Laravel, Bootstrap e Vue.JS
 
 - **Banco de Dados:** MySQL e MariaDB
 
