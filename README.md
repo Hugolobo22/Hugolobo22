@@ -26,7 +26,7 @@
 
 - **Agradeço por visitar meu perfil e fique à vontade para explorar meus projetos!**
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolobo22&layout=compact)
 
 ## 🚀 Minhas Skills
 
