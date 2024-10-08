@@ -26,8 +26,6 @@
 
 - **Agradeço por visitar meu perfil e fique à vontade para explorar meus projetos!**
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolobo22&layout=compact)
-
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -44,7 +42,7 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"/></code>
 
-
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolobo22&layout=compact)
 
 
 ---
